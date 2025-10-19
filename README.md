@@ -1,4 +1,5 @@
 Hugging Space Servisine İstek atmak için oluşturuldu
+İnaktiviteden dolayı ilk istek 15 20 sn zaman alabilir.
 
 OST /predict endpoint’i var.
 Hugging Face modelini kullanarak texti analiz eder ve duygu sonucunu döner.

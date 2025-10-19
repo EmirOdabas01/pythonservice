@@ -2,7 +2,7 @@ Hugging Space Servisine İstek atmak için oluşturuldu
 İnaktiviteden dolayı ilk istek 15 20 sn zaman alabilir.
 
 OST /predict endpoint’i var.
-Hugging Face modelini kullanarak texti analiz eder ve duygu sonucunu döner.
+Hugging Face modelini kullanarak texti analiz eder ve duygu sonucunu döner. Render üzerinden kaldırıldı
 
 Anladığım kadarıylee gradio Spaces arka planda kendi özel protokolüyle çalışıyor ve doğrudan HTTP REST istekleri kabul etmiyor.
 bundan ötürü Spaces’i Python gradio_client üzerinden çağıran bir ara servis yazdım.

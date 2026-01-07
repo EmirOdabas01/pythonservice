@@ -24,4 +24,3 @@ def analyze_sentiment(text):
 iface = gr.Interface(fn=analyze_sentiment, inputs="text", outputs="text")
 iface.launch()
 
-Bütün python kodları AI kullanılarak yazıldı.
